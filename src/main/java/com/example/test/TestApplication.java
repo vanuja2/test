@@ -11,7 +11,6 @@ public class TestApplication {
 
 	}
 	public static void main()
-
 	{
 		System.out.println();
 	}
